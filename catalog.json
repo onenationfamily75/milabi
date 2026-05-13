@@ -1,0 +1,1538 @@
+{
+  "site": {
+    "name": "Milabi Global",
+    "whatsapp": "0737473583",
+    "whatsapp_intl": "254737473583",
+    "currency": "KES",
+    "country": "Kenya"
+  },
+  "categories": [
+    {
+      "slug": "baby-walkers",
+      "name": "Baby Walkers",
+      "emoji": "\ud83d\udc76"
+    },
+    {
+      "slug": "strollers-trikes",
+      "name": "Strollers & Trikes",
+      "emoji": "\ud83d\udebc"
+    },
+    {
+      "slug": "car-seats",
+      "name": "Car Seats",
+      "emoji": "\ud83e\ude91"
+    },
+    {
+      "slug": "high-chairs",
+      "name": "High Chairs & Feeding",
+      "emoji": "\ud83c\udf7c"
+    },
+    {
+      "slug": "baby-toys",
+      "name": "Baby Toys",
+      "emoji": "\ud83e\uddf8"
+    },
+    {
+      "slug": "ride-on-cars",
+      "name": "Ride-On Cars",
+      "emoji": "\ud83c\udfce\ufe0f"
+    },
+    {
+      "slug": "scooters",
+      "name": "Scooters & Bikes",
+      "emoji": "\ud83d\udef4"
+    },
+    {
+      "slug": "skates",
+      "name": "Skates",
+      "emoji": "\ud83d\udefc"
+    },
+    {
+      "slug": "playpens",
+      "name": "Bassinets & Playpens",
+      "emoji": "\ud83d\udecf\ufe0f"
+    },
+    {
+      "slug": "bath-station",
+      "name": "Bath Station",
+      "emoji": "\ud83d\udec1"
+    },
+    {
+      "slug": "perfumes",
+      "name": "Perfumes",
+      "emoji": "\ud83c\udf38"
+    },
+    {
+      "slug": "beauty-wellness",
+      "name": "Beauty & Wellness",
+      "emoji": "\ud83d\udc84"
+    },
+    {
+      "slug": "wigs",
+      "name": "Human Hair Wigs",
+      "emoji": "\ud83d\udc87"
+    },
+    {
+      "slug": "kitchenware",
+      "name": "Kitchenware",
+      "emoji": "\ud83c\udf73"
+    },
+    {
+      "slug": "tea-set",
+      "name": "Tea Sets",
+      "emoji": "\ud83c\udf75"
+    },
+    {
+      "slug": "water-bottles",
+      "name": "Water Bottles & Flasks",
+      "emoji": "\ud83e\uddf4"
+    },
+    {
+      "slug": "cooler-bags",
+      "name": "Cooler Bags",
+      "emoji": "\ud83e\uddca"
+    },
+    {
+      "slug": "laundry-basket",
+      "name": "Laundry Baskets",
+      "emoji": "\ud83e\uddfa"
+    },
+    {
+      "slug": "home-decor",
+      "name": "Home Decor",
+      "emoji": "\ud83d\uddbc\ufe0f"
+    },
+    {
+      "slug": "home-furniture",
+      "name": "Home Furniture",
+      "emoji": "\ud83d\udecb\ufe0f"
+    },
+    {
+      "slug": "mats",
+      "name": "Mats",
+      "emoji": "\ud83d\udfeb"
+    },
+    {
+      "slug": "lighting",
+      "name": "Lighting",
+      "emoji": "\ud83d\udca1"
+    },
+    {
+      "slug": "washing-machines",
+      "name": "Washing Machines",
+      "emoji": "\ud83e\uddfa"
+    },
+    {
+      "slug": "phone-accessories",
+      "name": "Phone Accessories",
+      "emoji": "\ud83d\udcf1"
+    },
+    {
+      "slug": "suitcases",
+      "name": "Travel Suitcases",
+      "emoji": "\ud83e\uddf3"
+    },
+    {
+      "slug": "capsule-homes",
+      "name": "Capsule Homes",
+      "emoji": "\ud83c\udfe0"
+    }
+  ],
+  "products": [
+    {
+      "slug": "baby-walkers-adventure-baby-walker",
+      "name": "Adventure Baby Walker",
+      "price": 2100,
+      "old_price": 3500,
+      "image": "https://picsum.photos/seed/milabi551/600/600",
+      "category": "baby-walkers",
+      "description": "Quality baby walkers item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-walkers-musictime-walker",
+      "name": "MusicTime Walker",
+      "price": 3150,
+      "old_price": 4500,
+      "image": "https://picsum.photos/seed/milabi939/600/600",
+      "category": "baby-walkers",
+      "description": "Quality baby walkers item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-walkers-foldeasy-baby-walker",
+      "name": "FoldEasy Baby Walker",
+      "price": 800,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi388/600/600",
+      "category": "baby-walkers",
+      "description": "Quality baby walkers item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-walkers-rainbowride-walker",
+      "name": "RainbowRide Walker",
+      "price": 1000,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi498/600/600",
+      "category": "baby-walkers",
+      "description": "Quality baby walkers item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-walkers-firststeps-walker-pro",
+      "name": "FirstSteps Walker Pro",
+      "price": 6650,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi767/600/600",
+      "category": "baby-walkers",
+      "description": "Quality baby walkers item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-walkers-playcenter-walker",
+      "name": "PlayCenter Walker",
+      "price": 4500,
+      "old_price": 7500,
+      "image": "https://picsum.photos/seed/milabi273/600/600",
+      "category": "baby-walkers",
+      "description": "Quality baby walkers item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-walkers-smoothglide-walker",
+      "name": "SmoothGlide Walker",
+      "price": 1050,
+      "old_price": 1500,
+      "image": "https://picsum.photos/seed/milabi977/600/600",
+      "category": "baby-walkers",
+      "description": "Quality baby walkers item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-walkers-miniracer-walker",
+      "name": "MiniRacer Walker",
+      "price": 2250,
+      "old_price": 4500,
+      "image": "https://picsum.photos/seed/milabi431/600/600",
+      "category": "baby-walkers",
+      "description": "Quality baby walkers item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-walkers-bouncejoy-walker",
+      "name": "BounceJoy Walker",
+      "price": 1100,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi229/600/600",
+      "category": "baby-walkers",
+      "description": "Quality baby walkers item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-walkers-eduplay-walker",
+      "name": "EduPlay Walker",
+      "price": 800,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi21/600/600",
+      "category": "baby-walkers",
+      "description": "Quality baby walkers item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "strollers-trikes-citycruiser-stroller",
+      "name": "CityCruiser Stroller",
+      "price": 3150,
+      "old_price": 4500,
+      "image": "https://picsum.photos/seed/milabi805/600/600",
+      "category": "strollers-trikes",
+      "description": "Quality strollers & trikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "strollers-trikes-allterrain-trike",
+      "name": "AllTerrain Trike",
+      "price": 20250,
+      "old_price": 45000,
+      "image": "https://picsum.photos/seed/milabi143/600/600",
+      "category": "strollers-trikes",
+      "description": "Quality strollers & trikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "strollers-trikes-foldlite-stroller",
+      "name": "FoldLite Stroller",
+      "price": 1100,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi158/600/600",
+      "category": "strollers-trikes",
+      "description": "Quality strollers & trikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "strollers-trikes-toddlertrike-plus",
+      "name": "ToddlerTrike Plus",
+      "price": 5600,
+      "old_price": 12500,
+      "image": "https://picsum.photos/seed/milabi231/600/600",
+      "category": "strollers-trikes",
+      "description": "Quality strollers & trikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "strollers-trikes-twinjoy-stroller",
+      "name": "TwinJoy Stroller",
+      "price": 650,
+      "old_price": 1500,
+      "image": "https://picsum.photos/seed/milabi325/600/600",
+      "category": "strollers-trikes",
+      "description": "Quality strollers & trikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "strollers-trikes-pushplay-trike",
+      "name": "PushPlay Trike",
+      "price": 4750,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi560/600/600",
+      "category": "strollers-trikes",
+      "description": "Quality strollers & trikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "strollers-trikes-comfortride-stroller",
+      "name": "ComfortRide Stroller",
+      "price": 900,
+      "old_price": 1500,
+      "image": "https://picsum.photos/seed/milabi818/600/600",
+      "category": "strollers-trikes",
+      "description": "Quality strollers & trikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "strollers-trikes-explorer-trike",
+      "name": "Explorer Trike",
+      "price": 650,
+      "old_price": 1500,
+      "image": "https://picsum.photos/seed/milabi92/600/600",
+      "category": "strollers-trikes",
+      "description": "Quality strollers & trikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "car-seats-saferide-car-seat",
+      "name": "SafeRide Car Seat",
+      "price": 27000,
+      "old_price": 45000,
+      "image": "https://picsum.photos/seed/milabi872/600/600",
+      "category": "car-seats",
+      "description": "Quality car seats item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "car-seats-cocoonfit-car-seat",
+      "name": "CocoonFit Car Seat",
+      "price": 1500,
+      "old_price": 3000,
+      "image": "https://picsum.photos/seed/milabi742/600/600",
+      "category": "car-seats",
+      "description": "Quality car seats item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "car-seats-growwith-convertible-seat",
+      "name": "GrowWith Convertible Seat",
+      "price": 1000,
+      "old_price": 2200,
+      "image": "https://picsum.photos/seed/milabi536/600/600",
+      "category": "car-seats",
+      "description": "Quality car seats item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "car-seats-journeyshield-car-seat",
+      "name": "JourneyShield Car Seat",
+      "price": 800,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi365/600/600",
+      "category": "car-seats",
+      "description": "Quality car seats item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "car-seats-travelite-booster-seat",
+      "name": "Travelite Booster Seat",
+      "price": 1350,
+      "old_price": 3000,
+      "image": "https://picsum.photos/seed/milabi995/600/600",
+      "category": "car-seats",
+      "description": "Quality car seats item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "car-seats-infantsnug-car-seat",
+      "name": "InfantSnug Car Seat",
+      "price": 27000,
+      "old_price": 45000,
+      "image": "https://picsum.photos/seed/milabi894/600/600",
+      "category": "car-seats",
+      "description": "Quality car seats item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "high-chairs-dinewith-highchair",
+      "name": "DineWith Highchair",
+      "price": 800,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi920/600/600",
+      "category": "high-chairs",
+      "description": "Quality high chairs & feeding item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "high-chairs-foldflat-feeding-chair",
+      "name": "FoldFlat Feeding Chair",
+      "price": 5700,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi849/600/600",
+      "category": "high-chairs",
+      "description": "Quality high chairs & feeding item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "high-chairs-growmate-highchair",
+      "name": "GrowMate Highchair",
+      "price": 2450,
+      "old_price": 3500,
+      "image": "https://picsum.photos/seed/milabi728/600/600",
+      "category": "high-chairs",
+      "description": "Quality high chairs & feeding item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "high-chairs-mealtime-booster",
+      "name": "Mealtime Booster",
+      "price": 5250,
+      "old_price": 7500,
+      "image": "https://picsum.photos/seed/milabi587/600/600",
+      "category": "high-chairs",
+      "description": "Quality high chairs & feeding item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "high-chairs-comfortdine-highchair",
+      "name": "ComfortDine Highchair",
+      "price": 6650,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi534/600/600",
+      "category": "high-chairs",
+      "description": "Quality high chairs & feeding item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "high-chairs-quickclean-highchair",
+      "name": "QuickClean Highchair",
+      "price": 5700,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi583/600/600",
+      "category": "high-chairs",
+      "description": "Quality high chairs & feeding item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-toys-soft-activity-cube",
+      "name": "Soft Activity Cube",
+      "price": 2450,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi923/600/600",
+      "category": "baby-toys",
+      "description": "Quality baby toys item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-toys-wooden-stacking-rings",
+      "name": "Wooden Stacking Rings",
+      "price": 2500,
+      "old_price": 4500,
+      "image": "https://picsum.photos/seed/milabi231/600/600",
+      "category": "baby-toys",
+      "description": "Quality baby toys item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-toys-sensory-ball-pit",
+      "name": "Sensory Ball Pit",
+      "price": 2450,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi722/600/600",
+      "category": "baby-toys",
+      "description": "Quality baby toys item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-toys-musical-animal-plush",
+      "name": "Musical Animal Plush",
+      "price": 3050,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi61/600/600",
+      "category": "baby-toys",
+      "description": "Quality baby toys item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-toys-pop-up-play-tent",
+      "name": "Pop-Up Play Tent",
+      "price": 1800,
+      "old_price": 3000,
+      "image": "https://picsum.photos/seed/milabi302/600/600",
+      "category": "baby-toys",
+      "description": "Quality baby toys item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-toys-bath-time-squirters-set",
+      "name": "Bath Time Squirters Set",
+      "price": 15000,
+      "old_price": 25000,
+      "image": "https://picsum.photos/seed/milabi165/600/600",
+      "category": "baby-toys",
+      "description": "Quality baby toys item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-toys-shape-sorter-bus",
+      "name": "Shape Sorter Bus",
+      "price": 11100,
+      "old_price": 18500,
+      "image": "https://picsum.photos/seed/milabi516/600/600",
+      "category": "baby-toys",
+      "description": "Quality baby toys item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-toys-pull-along-train",
+      "name": "Pull-Along Train",
+      "price": 800,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi43/600/600",
+      "category": "baby-toys",
+      "description": "Quality baby toys item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-toys-crinkle-activity-mat",
+      "name": "Crinkle Activity Mat",
+      "price": 1350,
+      "old_price": 3000,
+      "image": "https://picsum.photos/seed/milabi490/600/600",
+      "category": "baby-toys",
+      "description": "Quality baby toys item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-toys-teether-trio-pack",
+      "name": "Teether Trio Pack",
+      "price": 3050,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi921/600/600",
+      "category": "baby-toys",
+      "description": "Quality baby toys item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-toys-light-up-play-drum",
+      "name": "Light-Up Play Drum",
+      "price": 9250,
+      "old_price": 18500,
+      "image": "https://picsum.photos/seed/milabi402/600/600",
+      "category": "baby-toys",
+      "description": "Quality baby toys item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "baby-toys-story-time-pillow",
+      "name": "Story Time Pillow",
+      "price": 1350,
+      "old_price": 3000,
+      "image": "https://picsum.photos/seed/milabi333/600/600",
+      "category": "baby-toys",
+      "description": "Quality baby toys item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "ride-on-cars-rallyrunner-ride-on",
+      "name": "RallyRunner Ride-On",
+      "price": 1250,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi94/600/600",
+      "category": "ride-on-cars",
+      "description": "Quality ride-on cars item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "ride-on-cars-minisports-ride-on",
+      "name": "MiniSports Ride-On",
+      "price": 3750,
+      "old_price": 7500,
+      "image": "https://picsum.photos/seed/milabi399/600/600",
+      "category": "ride-on-cars",
+      "description": "Quality ride-on cars item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "ride-on-cars-adventurebuggy-12v",
+      "name": "AdventureBuggy 12V",
+      "price": 1200,
+      "old_price": 2200,
+      "image": "https://picsum.photos/seed/milabi911/600/600",
+      "category": "ride-on-cars",
+      "description": "Quality ride-on cars item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "ride-on-cars-royalcruiser-ride-on",
+      "name": "RoyalCruiser Ride-On",
+      "price": 1100,
+      "old_price": 2200,
+      "image": "https://picsum.photos/seed/milabi757/600/600",
+      "category": "ride-on-cars",
+      "description": "Quality ride-on cars item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "ride-on-cars-offroader-mini-jeep",
+      "name": "OffRoader Mini Jeep",
+      "price": 3150,
+      "old_price": 4500,
+      "image": "https://picsum.photos/seed/milabi984/600/600",
+      "category": "ride-on-cars",
+      "description": "Quality ride-on cars item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "ride-on-cars-princesscarriage-ride-on",
+      "name": "PrincessCarriage Ride-On",
+      "price": 8750,
+      "old_price": 12500,
+      "image": "https://picsum.photos/seed/milabi731/600/600",
+      "category": "ride-on-cars",
+      "description": "Quality ride-on cars item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "scooters-urbanglide-scooter",
+      "name": "UrbanGlide Scooter",
+      "price": 11250,
+      "old_price": 25000,
+      "image": "https://picsum.photos/seed/milabi856/600/600",
+      "category": "scooters",
+      "description": "Quality scooters & bikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "scooters-threewheel-kids-scooter",
+      "name": "ThreeWheel Kids Scooter",
+      "price": 5200,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi376/600/600",
+      "category": "scooters",
+      "description": "Quality scooters & bikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "scooters-foldfast-scooter",
+      "name": "FoldFast Scooter",
+      "price": 1950,
+      "old_price": 3500,
+      "image": "https://picsum.photos/seed/milabi774/600/600",
+      "category": "scooters",
+      "description": "Quality scooters & bikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "scooters-sparkleride-scooter",
+      "name": "SparkleRide Scooter",
+      "price": 4750,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi927/600/600",
+      "category": "scooters",
+      "description": "Quality scooters & bikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "scooters-juniorbmx-bike",
+      "name": "JuniorBMX Bike",
+      "price": 4750,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi777/600/600",
+      "category": "scooters",
+      "description": "Quality scooters & bikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "scooters-firstride-balance-bike",
+      "name": "FirstRide Balance Bike",
+      "price": 1250,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi284/600/600",
+      "category": "scooters",
+      "description": "Quality scooters & bikes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "skates-glidemaster-roller-skates",
+      "name": "GlideMaster Roller Skates",
+      "price": 1500,
+      "old_price": 3000,
+      "image": "https://picsum.photos/seed/milabi888/600/600",
+      "category": "skates",
+      "description": "Quality skates item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "skates-adjustable-inline-skates",
+      "name": "Adjustable Inline Skates",
+      "price": 12950,
+      "old_price": 18500,
+      "image": "https://picsum.photos/seed/milabi113/600/600",
+      "category": "skates",
+      "description": "Quality skates item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "skates-quadjoy-skates",
+      "name": "QuadJoy Skates",
+      "price": 850,
+      "old_price": 1500,
+      "image": "https://picsum.photos/seed/milabi357/600/600",
+      "category": "skates",
+      "description": "Quality skates item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "skates-rinkstar-skates",
+      "name": "RinkStar Skates",
+      "price": 5600,
+      "old_price": 12500,
+      "image": "https://picsum.photos/seed/milabi220/600/600",
+      "category": "skates",
+      "description": "Quality skates item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "playpens-dreamcloud-bassinet",
+      "name": "DreamCloud Bassinet",
+      "price": 6250,
+      "old_price": 12500,
+      "image": "https://picsum.photos/seed/milabi467/600/600",
+      "category": "playpens",
+      "description": "Quality bassinets & playpens item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "playpens-foldaway-playpen",
+      "name": "FoldAway Playpen",
+      "price": 1500,
+      "old_price": 3000,
+      "image": "https://picsum.photos/seed/milabi337/600/600",
+      "category": "playpens",
+      "description": "Quality bassinets & playpens item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "playpens-co-sleeper-bassinet",
+      "name": "Co-Sleeper Bassinet",
+      "price": 6900,
+      "old_price": 12500,
+      "image": "https://picsum.photos/seed/milabi668/600/600",
+      "category": "playpens",
+      "description": "Quality bassinets & playpens item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "playpens-multiplay-pen",
+      "name": "MultiPlay Pen",
+      "price": 750,
+      "old_price": 1500,
+      "image": "https://picsum.photos/seed/milabi129/600/600",
+      "category": "playpens",
+      "description": "Quality bassinets & playpens item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "playpens-travellite-playpen",
+      "name": "TravelLite Playpen",
+      "price": 2100,
+      "old_price": 3500,
+      "image": "https://picsum.photos/seed/milabi466/600/600",
+      "category": "playpens",
+      "description": "Quality bassinets & playpens item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "playpens-restandplay-set",
+      "name": "RestAndPlay Set",
+      "price": 6650,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi656/600/600",
+      "category": "playpens",
+      "description": "Quality bassinets & playpens item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "bath-station-bubbleseat-bath-station",
+      "name": "BubbleSeat Bath Station",
+      "price": 3850,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi510/600/600",
+      "category": "bath-station",
+      "description": "Quality bath station item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "bath-station-foldneat-bath-tub",
+      "name": "FoldNeat Bath Tub",
+      "price": 1400,
+      "old_price": 2500,
+      "image": "https://picsum.photos/seed/milabi568/600/600",
+      "category": "bath-station",
+      "description": "Quality bath station item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "bath-station-infantbath-lounger",
+      "name": "InfantBath Lounger",
+      "price": 1300,
+      "old_price": 2200,
+      "image": "https://picsum.photos/seed/milabi106/600/600",
+      "category": "bath-station",
+      "description": "Quality bath station item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "bath-station-comfortsoak-tub",
+      "name": "ComfortSoak Tub",
+      "price": 2250,
+      "old_price": 4500,
+      "image": "https://picsum.photos/seed/milabi246/600/600",
+      "category": "bath-station",
+      "description": "Quality bath station item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "bath-station-splashsafe-bath-set",
+      "name": "SplashSafe Bath Set",
+      "price": 22500,
+      "old_price": 45000,
+      "image": "https://picsum.photos/seed/milabi413/600/600",
+      "category": "bath-station",
+      "description": "Quality bath station item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "perfumes-velvet-bloom-edp",
+      "name": "Velvet Bloom EDP",
+      "price": 1100,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi880/600/600",
+      "category": "perfumes",
+      "description": "Quality perfumes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "perfumes-amber-oud-spray",
+      "name": "Amber Oud Spray",
+      "price": 2750,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi698/600/600",
+      "category": "perfumes",
+      "description": "Quality perfumes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "perfumes-citrus-breeze-cologne",
+      "name": "Citrus Breeze Cologne",
+      "price": 4100,
+      "old_price": 7500,
+      "image": "https://picsum.photos/seed/milabi454/600/600",
+      "category": "perfumes",
+      "description": "Quality perfumes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "perfumes-rose-noir-edp",
+      "name": "Rose Noir EDP",
+      "price": 1100,
+      "old_price": 2200,
+      "image": "https://picsum.photos/seed/milabi244/600/600",
+      "category": "perfumes",
+      "description": "Quality perfumes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "perfumes-royal-musk-attar",
+      "name": "Royal Musk Attar",
+      "price": 20250,
+      "old_price": 45000,
+      "image": "https://picsum.photos/seed/milabi727/600/600",
+      "category": "perfumes",
+      "description": "Quality perfumes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "perfumes-sunset-sands-edp",
+      "name": "Sunset Sands EDP",
+      "price": 1500,
+      "old_price": 3000,
+      "image": "https://picsum.photos/seed/milabi39/600/600",
+      "category": "perfumes",
+      "description": "Quality perfumes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "perfumes-midnight-jasmine-spray",
+      "name": "Midnight Jasmine Spray",
+      "price": 1750,
+      "old_price": 3500,
+      "image": "https://picsum.photos/seed/milabi167/600/600",
+      "category": "perfumes",
+      "description": "Quality perfumes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "perfumes-ocean-mist-cologne",
+      "name": "Ocean Mist Cologne",
+      "price": 1500,
+      "old_price": 2500,
+      "image": "https://picsum.photos/seed/milabi594/600/600",
+      "category": "perfumes",
+      "description": "Quality perfumes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "perfumes-saffron-glow-edp",
+      "name": "Saffron Glow EDP",
+      "price": 1100,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi723/600/600",
+      "category": "perfumes",
+      "description": "Quality perfumes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "perfumes-vanilla-whisper-spray",
+      "name": "Vanilla Whisper Spray",
+      "price": 1300,
+      "old_price": 2200,
+      "image": "https://picsum.photos/seed/milabi871/600/600",
+      "category": "perfumes",
+      "description": "Quality perfumes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "beauty-wellness-hydra-glow-face-serum",
+      "name": "Hydra-Glow Face Serum",
+      "price": 7500,
+      "old_price": 12500,
+      "image": "https://picsum.photos/seed/milabi289/600/600",
+      "category": "beauty-wellness",
+      "description": "Quality beauty & wellness item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "beauty-wellness-argan-hair-oil-100ml",
+      "name": "Argan Hair Oil 100ml",
+      "price": 750,
+      "old_price": 1500,
+      "image": "https://picsum.photos/seed/milabi553/600/600",
+      "category": "beauty-wellness",
+      "description": "Quality beauty & wellness item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "beauty-wellness-vitamin-c-toner",
+      "name": "Vitamin C Toner",
+      "price": 20250,
+      "old_price": 45000,
+      "image": "https://picsum.photos/seed/milabi922/600/600",
+      "category": "beauty-wellness",
+      "description": "Quality beauty & wellness item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "beauty-wellness-detox-clay-mask",
+      "name": "Detox Clay Mask",
+      "price": 1200,
+      "old_price": 2200,
+      "image": "https://picsum.photos/seed/milabi470/600/600",
+      "category": "beauty-wellness",
+      "description": "Quality beauty & wellness item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "beauty-wellness-lash-and-brow-growth-oil",
+      "name": "Lash & Brow Growth Oil",
+      "price": 2100,
+      "old_price": 3000,
+      "image": "https://picsum.photos/seed/milabi884/600/600",
+      "category": "beauty-wellness",
+      "description": "Quality beauty & wellness item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "beauty-wellness-body-shimmer-lotion",
+      "name": "Body Shimmer Lotion",
+      "price": 1100,
+      "old_price": 2200,
+      "image": "https://picsum.photos/seed/milabi593/600/600",
+      "category": "beauty-wellness",
+      "description": "Quality beauty & wellness item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "wigs-bodywave-lace-wig-18in",
+      "name": "Bodywave Lace Wig 18\"",
+      "price": 4100,
+      "old_price": 7500,
+      "image": "https://picsum.photos/seed/milabi478/600/600",
+      "category": "wigs",
+      "description": "Quality human hair wigs item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "wigs-straight-bob-wig-12in",
+      "name": "Straight Bob Wig 12\"",
+      "price": 4300,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi173/600/600",
+      "category": "wigs",
+      "description": "Quality human hair wigs item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "wigs-curly-closure-wig-20in",
+      "name": "Curly Closure Wig 20\"",
+      "price": 2100,
+      "old_price": 3500,
+      "image": "https://picsum.photos/seed/milabi479/600/600",
+      "category": "wigs",
+      "description": "Quality human hair wigs item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "wigs-loose-wave-frontal-wig",
+      "name": "Loose Wave Frontal Wig",
+      "price": 8300,
+      "old_price": 18500,
+      "image": "https://picsum.photos/seed/milabi495/600/600",
+      "category": "wigs",
+      "description": "Quality human hair wigs item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "wigs-ombre-layered-wig-22in",
+      "name": "Ombre Layered Wig 22\"",
+      "price": 6650,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi194/600/600",
+      "category": "wigs",
+      "description": "Quality human hair wigs item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "wigs-pixie-cut-wig",
+      "name": "Pixie Cut Wig",
+      "price": 2450,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi474/600/600",
+      "category": "wigs",
+      "description": "Quality human hair wigs item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "kitchenware-24-piece-cookware-set",
+      "name": "24-Piece Cookware Set",
+      "price": 2250,
+      "old_price": 4500,
+      "image": "https://picsum.photos/seed/milabi789/600/600",
+      "category": "kitchenware",
+      "description": "Quality kitchenware item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "kitchenware-non-stick-frying-pan",
+      "name": "Non-Stick Frying Pan",
+      "price": 2250,
+      "old_price": 4500,
+      "image": "https://picsum.photos/seed/milabi730/600/600",
+      "category": "kitchenware",
+      "description": "Quality kitchenware item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "kitchenware-stainless-steel-pots-set",
+      "name": "Stainless Steel Pots Set",
+      "price": 900,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi812/600/600",
+      "category": "kitchenware",
+      "description": "Quality kitchenware item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "kitchenware-silicone-utensil-set",
+      "name": "Silicone Utensil Set",
+      "price": 6250,
+      "old_price": 12500,
+      "image": "https://picsum.photos/seed/milabi343/600/600",
+      "category": "kitchenware",
+      "description": "Quality kitchenware item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "kitchenware-knife-block-set-6pc",
+      "name": "Knife Block Set 6pc",
+      "price": 900,
+      "old_price": 1500,
+      "image": "https://picsum.photos/seed/milabi364/600/600",
+      "category": "kitchenware",
+      "description": "Quality kitchenware item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "kitchenware-glass-mixing-bowl-set",
+      "name": "Glass Mixing Bowl Set",
+      "price": 1100,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi66/600/600",
+      "category": "kitchenware",
+      "description": "Quality kitchenware item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "kitchenware-air-fryer-5l",
+      "name": "Air Fryer 5L",
+      "price": 3300,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi396/600/600",
+      "category": "kitchenware",
+      "description": "Quality kitchenware item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "kitchenware-blender-15l",
+      "name": "Blender 1.5L",
+      "price": 1000,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi210/600/600",
+      "category": "kitchenware",
+      "description": "Quality kitchenware item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "tea-set-royal-porcelain-tea-set-17pc",
+      "name": "Royal Porcelain Tea Set 17pc",
+      "price": 6650,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi416/600/600",
+      "category": "tea-set",
+      "description": "Quality tea sets item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "tea-set-glass-tea-set-12pc",
+      "name": "Glass Tea Set 12pc",
+      "price": 1250,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi902/600/600",
+      "category": "tea-set",
+      "description": "Quality tea sets item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "tea-set-moroccan-tea-pot-set",
+      "name": "Moroccan Tea Pot Set",
+      "price": 5700,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi773/600/600",
+      "category": "tea-set",
+      "description": "Quality tea sets item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "tea-set-floral-bone-china-set",
+      "name": "Floral Bone China Set",
+      "price": 5250,
+      "old_price": 7500,
+      "image": "https://picsum.photos/seed/milabi609/600/600",
+      "category": "tea-set",
+      "description": "Quality tea sets item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "tea-set-modern-matte-tea-set",
+      "name": "Modern Matte Tea Set",
+      "price": 1550,
+      "old_price": 3500,
+      "image": "https://picsum.photos/seed/milabi227/600/600",
+      "category": "tea-set",
+      "description": "Quality tea sets item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "water-bottles-insulated-sport-bottle-750ml",
+      "name": "Insulated Sport Bottle 750ml",
+      "price": 1050,
+      "old_price": 1500,
+      "image": "https://picsum.photos/seed/milabi790/600/600",
+      "category": "water-bottles",
+      "description": "Quality water bottles & flasks item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "water-bottles-stainless-travel-flask-1l",
+      "name": "Stainless Travel Flask 1L",
+      "price": 27000,
+      "old_price": 45000,
+      "image": "https://picsum.photos/seed/milabi325/600/600",
+      "category": "water-bottles",
+      "description": "Quality water bottles & flasks item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "water-bottles-kids-cartoon-bottle-500ml",
+      "name": "Kids Cartoon Bottle 500ml",
+      "price": 4750,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi526/600/600",
+      "category": "water-bottles",
+      "description": "Quality water bottles & flasks item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "water-bottles-smart-reminder-bottle",
+      "name": "Smart Reminder Bottle",
+      "price": 1200,
+      "old_price": 2200,
+      "image": "https://picsum.photos/seed/milabi611/600/600",
+      "category": "water-bottles",
+      "description": "Quality water bottles & flasks item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "water-bottles-tritan-gym-bottle-15l",
+      "name": "Tritan Gym Bottle 1.5L",
+      "price": 1550,
+      "old_price": 3500,
+      "image": "https://picsum.photos/seed/milabi11/600/600",
+      "category": "water-bottles",
+      "description": "Quality water bottles & flasks item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "water-bottles-vacuum-coffee-tumbler",
+      "name": "Vacuum Coffee Tumbler",
+      "price": 1750,
+      "old_price": 3500,
+      "image": "https://picsum.photos/seed/milabi99/600/600",
+      "category": "water-bottles",
+      "description": "Quality water bottles & flasks item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "cooler-bags-picnic-cooler-bag-20l",
+      "name": "Picnic Cooler Bag 20L",
+      "price": 1250,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi353/600/600",
+      "category": "cooler-bags",
+      "description": "Quality cooler bags item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "cooler-bags-daily-lunch-cooler",
+      "name": "Daily Lunch Cooler",
+      "price": 22500,
+      "old_price": 45000,
+      "image": "https://picsum.photos/seed/milabi233/600/600",
+      "category": "cooler-bags",
+      "description": "Quality cooler bags item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "cooler-bags-wheeled-cooler-box-30l",
+      "name": "Wheeled Cooler Box 30L",
+      "price": 2750,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi143/600/600",
+      "category": "cooler-bags",
+      "description": "Quality cooler bags item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "cooler-bags-beach-cooler-tote",
+      "name": "Beach Cooler Tote",
+      "price": 3050,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi371/600/600",
+      "category": "cooler-bags",
+      "description": "Quality cooler bags item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "cooler-bags-insulated-backpack-cooler",
+      "name": "Insulated Backpack Cooler",
+      "price": 1100,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi414/600/600",
+      "category": "cooler-bags",
+      "description": "Quality cooler bags item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "laundry-basket-foldable-pop-up-hamper",
+      "name": "Foldable Pop-Up Hamper",
+      "price": 1000,
+      "old_price": 1800,
+      "image": "https://picsum.photos/seed/milabi828/600/600",
+      "category": "laundry-basket",
+      "description": "Quality laundry baskets item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "laundry-basket-bamboo-weave-basket",
+      "name": "Bamboo Weave Basket",
+      "price": 10200,
+      "old_price": 18500,
+      "image": "https://picsum.photos/seed/milabi416/600/600",
+      "category": "laundry-basket",
+      "description": "Quality laundry baskets item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "laundry-basket-slim-side-hamper",
+      "name": "Slim Side Hamper",
+      "price": 3300,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi876/600/600",
+      "category": "laundry-basket",
+      "description": "Quality laundry baskets item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "laundry-basket-double-compartment-hamper",
+      "name": "Double Compartment Hamper",
+      "price": 5250,
+      "old_price": 7500,
+      "image": "https://picsum.photos/seed/milabi764/600/600",
+      "category": "laundry-basket",
+      "description": "Quality laundry baskets item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "laundry-basket-lidded-storage-basket",
+      "name": "Lidded Storage Basket",
+      "price": 1100,
+      "old_price": 2500,
+      "image": "https://picsum.photos/seed/milabi301/600/600",
+      "category": "laundry-basket",
+      "description": "Quality laundry baskets item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "home-decor-modern-wall-clock",
+      "name": "Modern Wall Clock",
+      "price": 2100,
+      "old_price": 3500,
+      "image": "https://picsum.photos/seed/milabi635/600/600",
+      "category": "home-decor",
+      "description": "Quality home decor item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "home-decor-boho-macrame-wall-hanger",
+      "name": "Boho Macrame Wall Hanger",
+      "price": 8300,
+      "old_price": 18500,
+      "image": "https://picsum.photos/seed/milabi832/600/600",
+      "category": "home-decor",
+      "description": "Quality home decor item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "home-decor-scented-soy-candle-set",
+      "name": "Scented Soy Candle Set",
+      "price": 650,
+      "old_price": 1500,
+      "image": "https://picsum.photos/seed/milabi379/600/600",
+      "category": "home-decor",
+      "description": "Quality home decor item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "home-decor-decorative-mirror-60cm",
+      "name": "Decorative Mirror 60cm",
+      "price": 2100,
+      "old_price": 3000,
+      "image": "https://picsum.photos/seed/milabi185/600/600",
+      "category": "home-decor",
+      "description": "Quality home decor item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "home-decor-indoor-plant-trio-faux",
+      "name": "Indoor Plant Trio (Faux)",
+      "price": 10200,
+      "old_price": 18500,
+      "image": "https://picsum.photos/seed/milabi250/600/600",
+      "category": "home-decor",
+      "description": "Quality home decor item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "home-furniture-velvet-accent-armchair",
+      "name": "Velvet Accent Armchair",
+      "price": 4100,
+      "old_price": 7500,
+      "image": "https://picsum.photos/seed/milabi809/600/600",
+      "category": "home-furniture",
+      "description": "Quality home furniture item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "home-furniture-compact-office-desk",
+      "name": "Compact Office Desk",
+      "price": 1200,
+      "old_price": 2200,
+      "image": "https://picsum.photos/seed/milabi838/600/600",
+      "category": "home-furniture",
+      "description": "Quality home furniture item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "home-furniture-3-seater-fabric-sofa",
+      "name": "3-Seater Fabric Sofa",
+      "price": 15000,
+      "old_price": 25000,
+      "image": "https://picsum.photos/seed/milabi507/600/600",
+      "category": "home-furniture",
+      "description": "Quality home furniture item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "home-furniture-bedside-storage-cabinet",
+      "name": "Bedside Storage Cabinet",
+      "price": 3350,
+      "old_price": 7500,
+      "image": "https://picsum.photos/seed/milabi105/600/600",
+      "category": "home-furniture",
+      "description": "Quality home furniture item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "home-furniture-dining-table-for-4",
+      "name": "Dining Table for 4",
+      "price": 11250,
+      "old_price": 25000,
+      "image": "https://picsum.photos/seed/milabi297/600/600",
+      "category": "home-furniture",
+      "description": "Quality home furniture item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "mats-memory-foam-door-mat",
+      "name": "Memory Foam Door Mat",
+      "price": 2100,
+      "old_price": 3500,
+      "image": "https://picsum.photos/seed/milabi574/600/600",
+      "category": "mats",
+      "description": "Quality mats item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "mats-anti-slip-bath-mat-set",
+      "name": "Anti-Slip Bath Mat Set",
+      "price": 5700,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi834/600/600",
+      "category": "mats",
+      "description": "Quality mats item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "mats-living-room-area-rug-5x7",
+      "name": "Living Room Area Rug 5x7",
+      "price": 15000,
+      "old_price": 25000,
+      "image": "https://picsum.photos/seed/milabi694/600/600",
+      "category": "mats",
+      "description": "Quality mats item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "mats-yoga-and-exercise-mat-6mm",
+      "name": "Yoga & Exercise Mat 6mm",
+      "price": 22500,
+      "old_price": 45000,
+      "image": "https://picsum.photos/seed/milabi183/600/600",
+      "category": "mats",
+      "description": "Quality mats item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "lighting-modern-led-pendant-lamp",
+      "name": "Modern LED Pendant Lamp",
+      "price": 11100,
+      "old_price": 18500,
+      "image": "https://picsum.photos/seed/milabi647/600/600",
+      "category": "lighting",
+      "description": "Quality lighting item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "lighting-bedside-touch-lamp",
+      "name": "Bedside Touch Lamp",
+      "price": 1100,
+      "old_price": 2500,
+      "image": "https://picsum.photos/seed/milabi505/600/600",
+      "category": "lighting",
+      "description": "Quality lighting item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "lighting-smart-rgb-floor-lamp",
+      "name": "Smart RGB Floor Lamp",
+      "price": 3050,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi426/600/600",
+      "category": "lighting",
+      "description": "Quality lighting item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "lighting-outdoor-solar-garden-lights",
+      "name": "Outdoor Solar Garden Lights",
+      "price": 12950,
+      "old_price": 18500,
+      "image": "https://picsum.photos/seed/milabi889/600/600",
+      "category": "lighting",
+      "description": "Quality lighting item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "washing-machines-twin-tub-washing-machine-8kg",
+      "name": "Twin-Tub Washing Machine 8kg",
+      "price": 850,
+      "old_price": 1500,
+      "image": "https://picsum.photos/seed/milabi961/600/600",
+      "category": "washing-machines",
+      "description": "Quality washing machines item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "washing-machines-front-load-washer-7kg",
+      "name": "Front-Load Washer 7kg",
+      "price": 3050,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi651/600/600",
+      "category": "washing-machines",
+      "description": "Quality washing machines item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "washing-machines-mini-portable-washer-45kg",
+      "name": "Mini Portable Washer 4.5kg",
+      "price": 1100,
+      "old_price": 2500,
+      "image": "https://picsum.photos/seed/milabi381/600/600",
+      "category": "washing-machines",
+      "description": "Quality washing machines item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "washing-machines-top-load-auto-washer-10kg",
+      "name": "Top-Load Auto Washer 10kg",
+      "price": 1750,
+      "old_price": 3500,
+      "image": "https://picsum.photos/seed/milabi430/600/600",
+      "category": "washing-machines",
+      "description": "Quality washing machines item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "phone-accessories-wireless-earbuds-pro",
+      "name": "Wireless Earbuds Pro",
+      "price": 13750,
+      "old_price": 25000,
+      "image": "https://picsum.photos/seed/milabi581/600/600",
+      "category": "phone-accessories",
+      "description": "Quality phone accessories item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "phone-accessories-magnetic-power-bank-10k",
+      "name": "Magnetic Power Bank 10K",
+      "price": 2450,
+      "old_price": 3500,
+      "image": "https://picsum.photos/seed/milabi970/600/600",
+      "category": "phone-accessories",
+      "description": "Quality phone accessories item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "phone-accessories-universal-phone-stand",
+      "name": "Universal Phone Stand",
+      "price": 1750,
+      "old_price": 2500,
+      "image": "https://picsum.photos/seed/milabi265/600/600",
+      "category": "phone-accessories",
+      "description": "Quality phone accessories item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "phone-accessories-fast-charge-usb-c-cable-2m",
+      "name": "Fast-Charge USB-C Cable 2m",
+      "price": 1250,
+      "old_price": 2500,
+      "image": "https://picsum.photos/seed/milabi993/600/600",
+      "category": "phone-accessories",
+      "description": "Quality phone accessories item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "phone-accessories-tempered-glass-screen-protector",
+      "name": "Tempered Glass Screen Protector",
+      "price": 1400,
+      "old_price": 2500,
+      "image": "https://picsum.photos/seed/milabi72/600/600",
+      "category": "phone-accessories",
+      "description": "Quality phone accessories item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "suitcases-hardshell-carry-on-20in",
+      "name": "Hardshell Carry-On 20\"",
+      "price": 1250,
+      "old_price": 2500,
+      "image": "https://picsum.photos/seed/milabi326/600/600",
+      "category": "suitcases",
+      "description": "Quality travel suitcases item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "suitcases-spinner-suitcase-24in",
+      "name": "Spinner Suitcase 24\"",
+      "price": 4300,
+      "old_price": 9500,
+      "image": "https://picsum.photos/seed/milabi654/600/600",
+      "category": "suitcases",
+      "description": "Quality travel suitcases item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "suitcases-large-travel-trunk-28in",
+      "name": "Large Travel Trunk 28\"",
+      "price": 31500,
+      "old_price": 45000,
+      "image": "https://picsum.photos/seed/milabi645/600/600",
+      "category": "suitcases",
+      "description": "Quality travel suitcases item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "suitcases-3-piece-luggage-set",
+      "name": "3-Piece Luggage Set",
+      "price": 3050,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi577/600/600",
+      "category": "suitcases",
+      "description": "Quality travel suitcases item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "capsule-homes-compact-capsule-home-unit",
+      "name": "Compact Capsule Home Unit",
+      "price": 17500,
+      "old_price": 25000,
+      "image": "https://picsum.photos/seed/milabi459/600/600",
+      "category": "capsule-homes",
+      "description": "Quality capsule homes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "capsule-homes-modular-studio-pod",
+      "name": "Modular Studio Pod",
+      "price": 31500,
+      "old_price": 45000,
+      "image": "https://picsum.photos/seed/milabi684/600/600",
+      "category": "capsule-homes",
+      "description": "Quality capsule homes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "capsule-homes-garden-office-capsule",
+      "name": "Garden Office Capsule",
+      "price": 2700,
+      "old_price": 4500,
+      "image": "https://picsum.photos/seed/milabi338/600/600",
+      "category": "capsule-homes",
+      "description": "Quality capsule homes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    },
+    {
+      "slug": "capsule-homes-tiny-living-cabin",
+      "name": "Tiny Living Cabin",
+      "price": 3300,
+      "old_price": 5500,
+      "image": "https://picsum.photos/seed/milabi603/600/600",
+      "category": "capsule-homes",
+      "description": "Quality capsule homes item, available now in Kenya. Order or ask any question on WhatsApp 0737473583 \u2014 fast confirmation, countrywide delivery available."
+    }
+  ]
+}

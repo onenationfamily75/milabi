@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Product — Milabi Global</title>
+<meta name="description" content="Milabi Global — quality lifestyle, baby and home products in Kenya. Order via WhatsApp 0737473583.">
+<link rel="stylesheet" href="styles.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+</head>
+<body data-page="product">
+<header class="site-header">
+  <div class="container header-row">
+    <a class="logo" href="index.html">Milabi Global</a>
+    <nav class="nav">
+      <a href="index.html">Home</a>
+      <a href="categories.html">Categories</a>
+      <a href="cart.html">Cart</a>
+      <a href="https://wa.me/254737473583" target="_blank" rel="noopener">Contact</a>
+    </nav>
+    <div class="header-actions">
+      <a class="icon-btn" href="cart.html">🛒 Cart <span class="badge" id="cart-badge">0</span></a>
+    </div>
+  </div>
+</header>
+<main class="container">
+
+<section class="section">
+  <div class="product-detail" id="product"></div>
+</section>
+
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <p>&copy; <span id="yr"></span> Milabi Global. Order or enquire on WhatsApp: <a class="wa" href="https://wa.me/254737473583" target="_blank" rel="noopener">0737473583</a></p>
+  </div>
+</footer>
+<a class="wa-float" href="https://wa.me/254737473583" target="_blank" rel="noopener" title="Chat on WhatsApp">💬</a>
+<script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
+<script src="app.js"></script>
+</body>
+</html>
